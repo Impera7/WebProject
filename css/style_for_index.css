@@ -1,0 +1,8 @@
+body{
+    text-align: center;
+}
+form{
+    display: inline-block;
+    border-style: groove;
+    padding: 10px;
+}
